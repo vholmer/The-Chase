@@ -10,7 +10,7 @@ import java.util.Scanner;
  *  player object, creates the parser and starts the game.  It also prints
  *  a welcome message at the start of the game.
  * 
- * @author  Viktor Holmér
+ * @author  Viktor Holmer
  * @version 2013.12.18 
  */
 

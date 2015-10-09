@@ -6,7 +6,7 @@
  * the player may choose one of three options, one of which will
  * assert the survival of the player.
  *
- * @author  Viktor Holmér
+ * @author  Viktor Holmer
  * @version 2013.12.19
  */
 

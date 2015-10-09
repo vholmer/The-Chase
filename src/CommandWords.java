@@ -5,7 +5,7 @@
  * This class holds an enumeration of all command words known to the game.
  * It is used to recognize commands as they are typed in.
  *
- * @author  Viktor Holmér
+ * @author  Viktor Holmer
  * @version 2013.12.18
  */
 

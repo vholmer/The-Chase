@@ -5,7 +5,7 @@
  * This class defines the items that one are able to pick up, drop or
  * show to characters throughout the game.
  *
- * @author  Viktor Holmér
+ * @author  Viktor Holmer
  * @version 2013.12.18
  */
 

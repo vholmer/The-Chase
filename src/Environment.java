@@ -7,7 +7,7 @@
  * for adding relevant data to these. This means dialogue for characters,
  * keys that unlocks certain rooms, options to events or exits for every room.
  *
- * @author  Viktor Holmér
+ * @author  Viktor Holmer
  * @version 2013.12.19
  */
 

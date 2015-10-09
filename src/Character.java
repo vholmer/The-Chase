@@ -5,7 +5,7 @@
  * This class defines the characters that one are able to interact
  * with throughout the course of the game.
  *
- * @author  Viktor Holmér
+ * @author  Viktor Holmer
  * @version 2013.12.19
  */
 

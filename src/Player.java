@@ -11,7 +11,7 @@ import java.util.ArrayList;
  * Also checks whether an event is playing or not and defines which
  * commands are valid during an event.
  *
- * @author  Viktor Holmér
+ * @author  Viktor Holmer
  * @version 2013.12.19
  */
 
