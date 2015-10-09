@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=description\ dialogue\ actionDialogue\ action\ name
+comment0.target=Character(java.lang.String,\ java.lang.String,\ java.lang.String,\ Item,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=
+comment2.target=java.lang.String\ getActionDialogue()
+comment3.params=
+comment3.target=java.lang.String\ getDialogue()
+comment4.params=
+comment4.target=java.lang.String\ getDescription()
+comment5.params=
+comment5.target=Item\ getActionItem()
+numComments=6

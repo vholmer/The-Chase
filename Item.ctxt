@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=description\ itemName
+comment0.target=Item(java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Creates\ an\ item\ with\ a\ weight\ and\ description\r\n\ \r\n\ @param\ description\ Describes\ the\ item.\r\n\ @param\ itemName\ The\ name\ of\ the\ item.\r\n
+comment1.params=
+comment1.target=java.lang.String\ getDescription()
+comment2.params=
+comment2.target=java.lang.String\ getItemName()
+numComments=3
